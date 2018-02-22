@@ -1,0 +1,89 @@
+[18-Feb-2018 15:51:31 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 15:51:31 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 15:51:31 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 15:51:31 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:51:31 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:51:31 America/Chicago] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:52:04 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:52:04 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:52:04 America/Chicago] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:52:14 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:52:14 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 15:52:14 America/Chicago] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:00:30 America/Chicago] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:00:30 America/Chicago] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:00:30 America/Chicago] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:00:30 America/Chicago] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:00:30 America/Chicago] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:00:30 America/Chicago] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:01:28 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:01:28 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:01:28 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:01:28 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:01:28 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:01:28 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:02:16 America/Chicago] PHP Warning:  include(/inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:02:16 America/Chicago] PHP Warning:  include(): Failed opening '/inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:02:16 America/Chicago] PHP Warning:  include(/inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:02:16 America/Chicago] PHP Warning:  include(): Failed opening '/inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:02:18 America/Chicago] PHP Warning:  include(/inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:02:18 America/Chicago] PHP Warning:  include(): Failed opening '/inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:02:18 America/Chicago] PHP Warning:  include(/inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:02:18 America/Chicago] PHP Warning:  include(): Failed opening '/inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:03:04 America/Chicago] PHP Warning:  include(/inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:03:04 America/Chicago] PHP Warning:  include(): Failed opening '/inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:03:04 America/Chicago] PHP Warning:  include(/inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:03:04 America/Chicago] PHP Warning:  include(): Failed opening '/inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:03:11 America/Chicago] PHP Warning:  include(/inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:03:11 America/Chicago] PHP Warning:  include(): Failed opening '/inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:03:11 America/Chicago] PHP Warning:  include(/inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:03:11 America/Chicago] PHP Warning:  include(): Failed opening '/inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:25 America/Chicago] PHP Warning:  include(/inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:25 America/Chicago] PHP Warning:  include(): Failed opening '/inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:25 America/Chicago] PHP Warning:  include(/inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:25 America/Chicago] PHP Warning:  include(): Failed opening '/inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:47 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:47 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:47 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:47 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:47 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:47 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:51 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:51 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:51 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:51 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:51 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:51 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:53 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:53 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:53 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:53 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:53 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:53 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:54 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:54 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:54 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:05:54 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:54 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:05:54 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:06:51 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:06:51 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:06:51 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 1
+[18-Feb-2018 16:06:51 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:06:51 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:06:51 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/index.php on line 91
+[18-Feb-2018 16:06:53 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 1
+[18-Feb-2018 16:06:53 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 1
+[18-Feb-2018 16:06:53 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/resource-management.php on line 1
+[18-Feb-2018 16:06:53 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 94
+[18-Feb-2018 16:06:53 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 94
+[18-Feb-2018 16:06:53 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/resource-management.php on line 94
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 1
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 1
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/resource-management.php on line 1
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(inc/page-header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 3
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(inc/page-header.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 3
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(): Failed opening 'inc/page-header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/resource-management.php on line 3
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 73
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/recycle/public_html/why-recycle/resource-management.php on line 73
+[18-Feb-2018 17:08:32 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/recycle/public_html/why-recycle/resource-management.php on line 73
